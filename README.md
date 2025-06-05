@@ -19,5 +19,17 @@ You must do this by modifying the input array in-place with O(1) extra memory.<b
 2. if there are many strings possible, the answer should be one which is the first in alphabetical order
 (Read sample test case for better understanding) <br><hr>
 ### 11)You are provided a string S. Your task is to print a string which also contains the number of times that character is repeated. (Read explanation of test case for better understanding) like input="aabbcc" output="a2b2c2".
+### 11)Count Chars
+Description
+You are provided a string S. Your task is to print a string which also contains the number of times that character is repeated. (Read explanation of test case for better understanding) like:- aabb output is:-a2b2 <br><hr>
+### 12)You are given price P[i] and Quantity Q[i] of N products that are added to a cart.
+You need to find the total cost of the cart. input:-3
+1 2 3
+3 2 1
+4
+1 2 3 4
+1 2 2 2
+o/p:-10
+19 <br><hr>
 
 
