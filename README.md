@@ -17,6 +17,7 @@ You must do this by modifying the input array in-place with O(1) extra memory.<b
 ### 10)You are given a string S that contains 3 characters: 'a', 'b', and '?'. Your task is to convert it to a string which contains only 2 characters: 'a', 'b'. The converted string must follow following conditions:
 1. It should not contains two letters 'a' in a row.
 2. if there are many strings possible, the answer should be one which is the first in alphabetical order
-(Read sample test case for better understanding)
+(Read sample test case for better understanding) <br><hr>
+### 11)You are provided a string S. Your task is to print a string which also contains the number of times that character is repeated. (Read explanation of test case for better understanding) like input="aabbcc" output="a2b2c2".
 
 
