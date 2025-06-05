@@ -11,5 +11,7 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 A word is defined as a sequence of non-space characters. The words in s will be separated by at least one space.
 Return a string of the words in reverse order concatenated by a single space.<br><hr>
 6)Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums. Leetcode-26<br><hr>
-8)Largest Element in the array geeks for geeks arr=1 8 7 56 90 largest is:-90
+8)Largest Element in the array geeks for geeks arr=1 8 7 56 90 largest is:-90<br><hr>
+9)reverse a string leetcode-344 Write a function that reverses a string. The input string is given as an array of characters s.
+You must do this by modifying the input array in-place with O(1) extra memory.
 
