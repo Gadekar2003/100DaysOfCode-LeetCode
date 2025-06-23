@@ -31,6 +31,7 @@ You need to find the total cost of the cart. input:-3
 1 2 2 2
 o/p:-10
 19 <br><hr>
+<<<<<<< HEAD
 ### 13)Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.Leetcode -258<br><hr>
 ### 14)328. Odd Even Linked List
 Solved
@@ -44,5 +45,7 @@ Note that the relative order inside both the even and odd groups should remain a
 You must solve the problem in O(1) extra space complexity and O(n) time complexity.<br><hr>
 
  
+=======
+>>>>>>> 34bd08a5ac5cb6273ea606d6d4ff66c001d99b2a
 
 
