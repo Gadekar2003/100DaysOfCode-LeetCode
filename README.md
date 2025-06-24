@@ -43,9 +43,9 @@ Given the head of a singly linked list, group all the nodes with odd indices tog
 The first node is considered odd, and the second node is even, and so on.
 Note that the relative order inside both the even and odd groups should remain as it was in the input.
 You must solve the problem in O(1) extra space complexity and O(n) time complexity.<br><hr>
-
+### 15) Leetcode:-69 Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well.
+You must not use any built-in exponent function or operator.
+For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.
  
-=======
->>>>>>> 34bd08a5ac5cb6273ea606d6d4ff66c001d99b2a
 
 
