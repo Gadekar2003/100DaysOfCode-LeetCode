@@ -31,7 +31,6 @@ You need to find the total cost of the cart. input:-3
 1 2 2 2
 o/p:-10
 19 <br><hr>
-<<<<<<< HEAD
 ### 13)Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.Leetcode -258<br><hr>
 ### 14)328. Odd Even Linked List
 Solved
@@ -45,7 +44,11 @@ Note that the relative order inside both the even and odd groups should remain a
 You must solve the problem in O(1) extra space complexity and O(n) time complexity.<br><hr>
 ### 15) Leetcode:-69 Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well.
 You must not use any built-in exponent function or operator.
-For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.
+For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.<br><hr>
+### 16)58. Length of Last Word 
+Input: s = "Hello World"
+Output: 5
+Explanation: The last word is "World" with length 5.<br><hr>
  
 
 
